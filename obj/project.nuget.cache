@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7VJp/90IK1Qosxa81RAPrJLf4YQrbjf+VHlnXpjiG+nFgiF+DDf/t1Kuf1a5RRjSxY4KDAJBiZWbIIcWXbxdoQ==",
+  "dgSpecHash": "xKXTf0l9fMV6Wjt1ZX5QhOYUrCE7OCJk0eTg8JwBrJgzmDa8c8OJL7f19dRdrEWqRq/GR/fyGXQM1a40FnFCzg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cilc\\source\\repos\\RPGMods-Arena\\RPGMods.csproj",
+  "projectFilePath": "C:\\Users\\cilc\\Source\\Repos\\ProjectR\\RPGMods.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cilc\\.nuget\\packages\\bepinex.core\\6.0.0-pre.1\\bepinex.core.6.0.0-pre.1.nupkg.sha512",
     "C:\\Users\\cilc\\.nuget\\packages\\bepinex.il2cpp\\6.0.0-pre.1\\bepinex.il2cpp.6.0.0-pre.1.nupkg.sha512",

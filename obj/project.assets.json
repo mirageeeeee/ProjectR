@@ -5952,18 +5952,18 @@
   "project": {
     "version": "1.2.4",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cilc\\source\\repos\\RPGMods-Arena\\RPGMods.csproj",
+      "projectUniqueName": "C:\\Users\\cilc\\Source\\Repos\\ProjectR\\RPGMods.csproj",
       "projectName": "RPGMods",
-      "projectPath": "C:\\Users\\cilc\\source\\repos\\RPGMods-Arena\\RPGMods.csproj",
+      "projectPath": "C:\\Users\\cilc\\Source\\Repos\\ProjectR\\RPGMods.csproj",
       "packagesPath": "C:\\Users\\cilc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cilc\\source\\repos\\RPGMods-Arena\\obj\\",
+      "outputPath": "C:\\Users\\cilc\\Source\\Repos\\ProjectR\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "F:\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\cilc\\source\\repos\\RPGMods-Arena\\NuGet.Config",
+        "C:\\Users\\cilc\\source\\repos\\ProjectR\\NuGet.Config",
         "C:\\Users\\cilc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
